@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/marksteve
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://marksteve.com
+  * I am marksteve (https://keybase.io/marksteve) on keybase.
+  * I have a public key with fingerprint F213 877B 6329 EFC3 F9F6  570A 9CBC 7CFC 3E49 F3DE
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f213877b6329efc3f9f6570a9cbc7cfc3e49f3de",
+            "host": "keybase.io",
+            "key_id": "9CBC7CFC3E49F3DE",
+            "uid": "ce08ba95c98f39a0a33be8f81efeae00",
+            "username": "marksteve"
+        },
+        "service": {
+            "hostname": "marksteve.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396348121,
+    "expire_in": 157680000,
+    "prev": "9f080fa35b2893dcabb5325314495630101a77be1796b9538a9c8c07d4ffdf03",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+owFdUV1IFFEY3V2zMhQEg/wJNgYLjNVm9s7szKzkg+uaqKC1PYiIy52ZOzqpO9Ps
+7JY/vWUhJpU/VFLBsmZhYD9KJllIFAmCBT7EmgtBLWGWCGtBINYdqZfuy+We75zz
+fee7VzJSLDZrenJ2uO/p9Kh1fjYpWHzuwVgnIahSO+HuJFrQ9iUrgSaka7oSMAg3
+ITspwLGs4AJOHskikHnZxbAk5EVBZEUMIJqXgYQIB9GsBk0FthFgEBUpKsbww69I
+GOU9pR7WU+4BXpovB2VeXAttF0REcgLkGZHnZMBDEgIgIE7mKCQjiEjSJAaRHoBt
+CLPboN4SNFAYEeccBIbDiojMoc3e/1OKRLUNqzVdNVRRbcWlZsPQ3KbSaNdM6hkk
++P+a+AUlIOHkWBBGelBRA4SbwkzRUExXCvAuQHOUk3IQ6Kym6MivmAyGdXEkPmYb
+FDZzyiRHyhAwgpPjgSRCQWCAkwEUTfOMC5AUSUG8TkSxvEvgGcDhTXIiyUq0LEsy
+CQgz1umASrgBHhM2Ycug0hSARkjHmXus+3dYrDbLzlSb+XeWPWmZ/350oGrX7+pX
+3QuNkePX913YOPa8Knl14nFrSqIA3djc7BPi3VuvV0XfQP24LX95/UFW/E6ybD3y
+WRpes6w8mr4cOukbcEZzvld05pc3xopymYmuXpjh5Sp9k7XA0jf3JgG/TnfUjw7d
+EluP7L70cMprn1qa6YqE7o+9zDvoXg7aD/2YtGvvjaF7yuEvB7QOX2o0++3eDa+9
+MuVuoniuvTpeMBItXSypndH5X8UUvVWolPjWQvk1J2IfQG5djSM8/0k7auStjD/b
+iOVkja/+lKIj528OORfqFm8vTwym9/ZEMpf6o+9ONfTHE+En1xoaX3xL6+a2Ci6O
+lVYULmZ/nBP/AA==
+=1GJy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marksteve
+
+==================================================================
+
