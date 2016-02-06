@@ -4,57 +4,47 @@ https://keybase.io/marksteve
 
 I hereby claim:
 
-  * I am an admin of http://marksteve.com
+  * I am an admin of https://marksteve.com
   * I am marksteve (https://keybase.io/marksteve) on keybase.
-  * I have a public key with fingerprint F213 877B 6329 EFC3 F9F6  570A 9CBC 7CFC 3E49 F3DE
+  * I have a public key ASA_y59_BWI2CFwJoOmev0dwHe6WJHvTW4Dd0awqBUzN3wo
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "fingerprint": "f213877b6329efc3f9f6570a9cbc7cfc3e49f3de",
+            "eldest_kid": "01203fcb9f7f056236085c09a0e99ebf47701dee96247bd35b80ddd1ac2a054ccddf0a",
             "host": "keybase.io",
-            "key_id": "9CBC7CFC3E49F3DE",
+            "kid": "01203fcb9f7f056236085c09a0e99ebf47701dee96247bd35b80ddd1ac2a054ccddf0a",
             "uid": "ce08ba95c98f39a0a33be8f81efeae00",
             "username": "marksteve"
         },
         "service": {
             "hostname": "marksteve.com",
-            "protocol": "http:"
+            "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1396348121,
-    "expire_in": 157680000,
-    "prev": "9f080fa35b2893dcabb5325314495630101a77be1796b9538a9c8c07d4ffdf03",
-    "seqno": 3,
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.9"
+    },
+    "ctime": 1454755775,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1454755710,
+        "hash": "52b67ab470db191f01c080a29eca4b8298328d83b92c54ba959f23dc348c70d37ce46d706dfcab6b53216489fd184b4a32cf03014de2a75a38fa8dc18b6cbbb0",
+        "seqno": 372300
+    },
+    "prev": "a370aa825d0fcd1ba4cbac87ec1ef723f5c816d62684e0504bbd3194eb7e2475",
+    "seqno": 13,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.14 (GNU/Linux)
-
-owFdUV1IFFEY3V2zMhQEg/wJNgYLjNVm9s7szKzkg+uaqKC1PYiIy52ZOzqpO9Ps
-7JY/vWUhJpU/VFLBsmZhYD9KJllIFAmCBT7EmgtBLWGWCGtBINYdqZfuy+We75zz
-fee7VzJSLDZrenJ2uO/p9Kh1fjYpWHzuwVgnIahSO+HuJFrQ9iUrgSaka7oSMAg3
-ITspwLGs4AJOHskikHnZxbAk5EVBZEUMIJqXgYQIB9GsBk0FthFgEBUpKsbww69I
-GOU9pR7WU+4BXpovB2VeXAttF0REcgLkGZHnZMBDEgIgIE7mKCQjiEjSJAaRHoBt
-CLPboN4SNFAYEeccBIbDiojMoc3e/1OKRLUNqzVdNVRRbcWlZsPQ3KbSaNdM6hkk
-+P+a+AUlIOHkWBBGelBRA4SbwkzRUExXCvAuQHOUk3IQ6Kym6MivmAyGdXEkPmYb
-FDZzyiRHyhAwgpPjgSRCQWCAkwEUTfOMC5AUSUG8TkSxvEvgGcDhTXIiyUq0LEsy
-CQgz1umASrgBHhM2Ycug0hSARkjHmXus+3dYrDbLzlSb+XeWPWmZ/350oGrX7+pX
-3QuNkePX913YOPa8Knl14nFrSqIA3djc7BPi3VuvV0XfQP24LX95/UFW/E6ybD3y
-WRpes6w8mr4cOukbcEZzvld05pc3xopymYmuXpjh5Sp9k7XA0jf3JgG/TnfUjw7d
-EluP7L70cMprn1qa6YqE7o+9zDvoXg7aD/2YtGvvjaF7yuEvB7QOX2o0++3eDa+9
-MuVuoniuvTpeMBItXSypndH5X8UUvVWolPjWQvk1J2IfQG5djSM8/0k7auStjD/b
-iOVkja/+lKIj528OORfqFm8vTwym9/ZEMpf6o+9ONfTHE+En1xoaX3xL6+a2Ci6O
-lVYULmZ/nBP/AA==
-=1GJy
------END PGP MESSAGE-----
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgP8uffwViNghcCaDpnr9HcB3uliR701uA3dGsKgVMzd8Kp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwM2ZjYjlmN2YwNTYyMzYwODVjMDlhMGU5OWViZjQ3NzAxZGVlOTYyNDdiZDM1YjgwZGRkMWFjMmEwNTRjY2RkZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwM2ZjYjlmN2YwNTYyMzYwODVjMDlhMGU5OWViZjQ3NzAxZGVlOTYyNDdiZDM1YjgwZGRkMWFjMmEwNTRjY2RkZjBhIiwidWlkIjoiY2UwOGJhOTVjOThmMzlhMGEzM2JlOGY4MWVmZWFlMDAiLCJ1c2VybmFtZSI6Im1hcmtzdGV2ZSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWFya3N0ZXZlLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjkifSwiY3RpbWUiOjE0NTQ3NTU3NzUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1NDc1NTcxMCwiaGFzaCI6IjUyYjY3YWI0NzBkYjE5MWYwMWMwODBhMjllY2E0YjgyOTgzMjhkODNiOTJjNTRiYTk1OWYyM2RjMzQ4YzcwZDM3Y2U0NmQ3MDZkZmNhYjZiNTMyMTY0ODlmZDE4NGI0YTMyY2YwMzAxNGRlMmE3NWEzOGZhOGRjMThiNmNiYmIwIiwic2Vxbm8iOjM3MjMwMH0sInByZXYiOiJhMzcwYWE4MjVkMGZjZDFiYTRjYmFjODdlYzFlZjcyM2Y1YzgxNmQ2MjY4NGUwNTA0YmJkMzE5NGViN2UyNDc1Iiwic2Vxbm8iOjEzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQI10nb48ZbChDihLDdp64EqNnkutGz/0JuCvPo4jCQ2EEbQShWhEfdP9qafddaUW1zfQ1NfQzUCWiadoURCdbAioc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -62,4 +52,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/marksteve
 
 ==================================================================
-
